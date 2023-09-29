@@ -1,20 +1,6 @@
-# Quartz v4
+# Soy's Coding Café
+A fork of [Jacky Zhao's Quartz V4](https://github.com/jackyzha0/quartz) for creating a website from an [Obsidian](https://obsidian.md) vault in markdown and deploying it to [Github Pages](https://github.com/SoysCodingCafe/home).
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Currently it is pretty empty, but I plan on using this as a hub for my various accounts and a way to post devlogs of my current projects. If you have somehow stumbled upon this, bookmark [the page](https://github.com/SoysCodingCafe/home) and check back later!
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+For more information on Quartz then visit: https://quartz.jzhao.xyz/
