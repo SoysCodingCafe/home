@@ -2,6 +2,7 @@
 title: My Games
 ---
 
+# Games
 I have created a variety of games, some with the assistance of my friends, which can be found on my [Itch](https://SoysCodingCafe.itch.io/).
 
 | Game                                                       | Release Date        |
@@ -19,3 +20,11 @@ I have created a variety of games, some with the assistance of my friends, which
 | [[space_batter_hub \| Space Batter]]                       | 30th September 2023 |
 | [[wheel_of_famine_hub \| Wheel of Famine]]                 | Unreleased          |
 
+# Workflow
+You can find more information on the software and tools I use [[workflow | here]].
+
+# Resources
+I have created a list of learning resources and creators I have found useful [[resources | here]].
+
+# Inspirations
+You can find some of my inspirations [[inspirations | here]], from gamedevs to games to other forms of media. Inspirations for specific games can be found on their individual pages.
