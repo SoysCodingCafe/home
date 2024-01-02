@@ -17,6 +17,7 @@ I have created a variety of games, some with the assistance of my friends, which
 | [[elevator_hub \| Elevator]]                               | Unreleased          |
 | [[mole_rancher_hub \| Mole Rancher]]                       | 29th August 2022    |
 | [[mole_rancher_remastered_hub \| Mole Rancher Remastered]] | 29th August 2023    |
+| [[no_loose_threads_hub \| No Loose Threads]]               | 11th December 2023  |
 | [[space_batter_hub \| Space Batter]]                       | 30th September 2023 |
 | [[wheel_of_famine_hub \| Wheel of Famine]]                 | Unreleased          |
 
